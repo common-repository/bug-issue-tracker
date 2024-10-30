@@ -1,0 +1,55 @@
+"Project-Id-Version: Bug & Issue Tracker\n"
+"PO-Revision-Date: Thu Dec 31 2015 00:00:00 GMT+0100 (CET)\n"
+"Last-Translator: Jaro Varga <hello@jarovarga.sk>\n"
+"Language: Slovak\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../bug-issue-tracker.php:89 ../bug-issue-tracker.php:192
+msgid "Attach File"
+msgstr "Pridať súbor"
+
+#: ../bug-issue-tracker.php:98
+msgid "Sorry, but we can't solve a problem that doesn't exist."
+msgstr "Je nám ľúto, ale nemôžeme vyriešiť problém, ktorý neexistuje."
+
+#: ../bug-issue-tracker.php:133
+msgid "Your request has been submitted successfully! We'll be contacting you as quickly as possible."
+msgstr "Vaša požiadavka bola úspešne odoslaná! Budeme Vás kontaktovať hneď, ako to len bude možné."
+
+#: ../bug-issue-tracker.php:137
+msgid "Oops, something went wrong! Please try again later or contact your system administrator."
+msgstr "Oops, Niečo sa pokazilo! Skúste to prosím neskôr alebo kontaktujte správcu systému."
+
+#: ../bug-issue-tracker.php:159
+msgid "Priority 1"
+msgstr "Priorita 1"
+
+#: ../bug-issue-tracker.php:163
+msgid "Priority 2"
+msgstr "Priorita 2"
+
+#: ../bug-issue-tracker.php:167
+msgid "Priority 3"
+msgstr "Priorita 3"
+
+#: ../bug-issue-tracker.php:171
+msgid "Priority 4"
+msgstr "Priorita 4"
+
+#: ../bug-issue-tracker.php:177
+msgid "Bug"
+msgstr "Chyba"
+
+#: ../bug-issue-tracker.php:180
+msgid "What's the matter?"
+msgstr "O čo ide?"
+
+#: ../bug-issue-tracker.php:184
+msgid "Quick Comment"
+msgstr "Komentár"
+
+#: ../bug-issue-tracker.php:193
+msgid "Submit"
+msgstr "Odoslať"

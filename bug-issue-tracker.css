@@ -1,0 +1,76 @@
+#bug-issue-tracker input[type=text] {
+  font-size: 1.3em;
+  outline: 0;
+  padding: 2px 6px
+}
+#bug-issue-tracker textarea {
+  margin: 0 0 8px;
+  max-height: 1300px;
+  min-height: 90px;
+  padding: 6px 7px;
+  resize: none
+}
+#bug-issue-tracker .input-text-wrap {
+  clear: both;
+  margin: 0 0 12px
+}
+#bug-issue-tracker .prompt {
+  color: #777;
+  cursor: text;
+  font-size: 1.1em;
+  padding: 7px 8px
+}
+#bug-issue-tracker .submit {
+  overflow: hidden
+}
+#bug-issue-tracker .insert-media {
+  float: left
+}
+#bug-issue-tracker .button-primary {
+  float: right
+}
+.bug-issue-tracker-status {
+  display: none;
+  margin: 12px 0 0
+}
+.bug-issue-tracker-priority-levels {
+  float: left;
+  margin: 0 0 12px
+}
+.bug-issue-tracker-priority-levels label {
+  margin: 0 8px 0 0
+}
+.bug-issue-tracker-priority-levels input {
+  margin-right: 0
+}
+.bug-issue-tracker-priority-levels span:before {
+  content: "";
+  display: inline-block;
+  height: 18px;
+  opacity: .5;
+  vertical-align: bottom;
+  width: 24px
+}
+.bug-issue-tracker-priority-levels label:hover span:before {
+  opacity: 1
+}
+.bug-issue-tracker-priority-level-1:before {
+  background: url(priority-levels.png) no-repeat
+}
+.bug-issue-tracker-priority-level-2:before {
+  background: url(priority-levels.png) 0 -18px no-repeat
+}
+.bug-issue-tracker-priority-level-3:before {
+  background: url(priority-levels.png) 0 -36px no-repeat
+}
+.bug-issue-tracker-priority-level-4:before {
+  background: url(priority-levels.png) 0 -54px no-repeat
+}
+.bug-issue-tracker-labels {
+  float: right;
+  margin: 0 0 12px
+}
+.bug-issue-tracker-attachment {
+  display: none;
+  margin: 0 0 12px
+}
